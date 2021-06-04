@@ -1,0 +1,13 @@
+D:\C#\ExamApplication\ExamApplication\bin\Debug\netcoreapp3.1\ExamApplication.exe
+D:\C#\ExamApplication\ExamApplication\bin\Debug\netcoreapp3.1\ExamApplication.deps.json
+D:\C#\ExamApplication\ExamApplication\bin\Debug\netcoreapp3.1\ExamApplication.runtimeconfig.json
+D:\C#\ExamApplication\ExamApplication\bin\Debug\netcoreapp3.1\ExamApplication.runtimeconfig.dev.json
+D:\C#\ExamApplication\ExamApplication\bin\Debug\netcoreapp3.1\ExamApplication.dll
+D:\C#\ExamApplication\ExamApplication\bin\Debug\netcoreapp3.1\ExamApplication.pdb
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.csprojAssemblyReference.cache
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.AssemblyInfoInputs.cache
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.AssemblyInfo.cs
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.csproj.CoreCompileInputs.cache
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.dll
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.pdb
+D:\C#\ExamApplication\ExamApplication\obj\Debug\netcoreapp3.1\ExamApplication.genruntimeconfig.cache
